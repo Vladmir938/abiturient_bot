@@ -1,0 +1,163 @@
+[
+  {
+    "id":1,
+    "name":"Русский язык",
+    "min_score":40,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":2,
+    "name":"Математика профильного уровня",
+    "min_score":40,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":3,
+    "name":"Физика",
+    "min_score":39,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":4,
+    "name":"Обществознание",
+    "min_score":45,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":5,
+    "name":"История",
+    "min_score":36,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":6,
+    "name":"Информатика",
+    "min_score":44,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":7,
+    "name":"Иностранный язык",
+    "min_score":30,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":8,
+    "name":"Литература",
+    "min_score":40,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":9,
+    "name":"Биология",
+    "min_score":39,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":10,
+    "name":"География",
+    "min_score":40,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":11,
+    "name":"Химия",
+    "min_score":39,
+    "max_score":100,
+    "accept_score":100
+  },
+  {
+    "id":12,
+    "name":"Профессиональное испытание — Физическая культура (практическая часть)",
+    "min_score":30,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":13,
+    "name":"Профессиональное испытание — Физическая культура (теоретическая часть в форме компьютерного тестирования)",
+    "min_score":30,
+    "max_score":null,
+    "accept_score":75
+  },
+  {
+    "id":14,
+    "name":"Творческий конкурс",
+    "min_score":39,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":15,
+    "name":"Профессиональное испытание — Основы безопасности жизнедеятельности",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":16,
+    "name":"Профессиональное испытание — Технология и экономика",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":18,
+    "name":"Профессиональное испытание — Математика и информатика",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":19,
+    "name":"Профессиональное испытание — Основы физики и информатики",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":20,
+    "name":"Профессиональное испытание — Профессиональное обучение",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":21,
+    "name":"Профессиональное испытание — Специальное (дефектологическое) образование",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":22,
+    "name":"Профессиональное испытание — Готовность к освоению педагогической деятельности",
+    "min_score":45,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":23,
+    "name":"Профильное вступительное испытание на базе среднего профессионального образования",
+    "min_score":35,
+    "max_score":null,
+    "accept_score":100
+  },
+  {
+    "id":24,
+    "name":"Междисциплинарный экзамен (магистратура)",
+    "min_score":32,
+    "max_score":null,
+    "accept_score":100
+  }
+]

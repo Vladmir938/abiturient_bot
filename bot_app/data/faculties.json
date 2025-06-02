@@ -1,0 +1,422 @@
+[
+  {
+    "НазваниеФакультета": "Горный факультет",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=gorny'j_fakul'tet",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_gf",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_gf",
+    "Кафедры": [
+      {
+        "Название": "Кафедра прикладной геологии и технологии геологической разведки",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kpgitgr"
+      },
+      {
+        "Название": "Кафедра обогащения полезных ископаемых и вторичного сырья (ОПИиВС)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_opiivs"
+      },
+      {
+        "Название": "Кафедра открытых горных работ (ОГР)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_ogr"
+      },
+      {
+        "Название": "Кафедра подземной разработки месторождений полезных ископаемых (ПРМПИ)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_prmpi"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [
+      {
+        "Название": "Компьютерный класс ГФ",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=gorny'j_fakul'tet"
+      },
+      {
+        "Название": "Hаучная аналитическая лаборатория ГФ",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=gorny'j_fakul'tet"
+      },
+      {
+        "Название": "НИЦ инновационных технологий",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=gorny'j_fakul'tet"
+      }
+    ],
+    "Контакты": {
+      "АдресФакультета": "г. Чита, ул. Кастринская, 1, корпус 2",
+      "ТелефонФакультета": "8(3022) 26-02-40",
+      "EmailФакультета": "Oogi2011@yandex.ru",
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=2&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=1"
+  },
+  {
+    "НазваниеФакультета": "Факультет строительства и экологии",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=stroitel'ny'j_fakul'tet",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_fsie'",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_fsie'",
+    "Кафедры": [
+      {
+        "Название": "Кафедра водного хозяйства, экологической и промышленной безопасности",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kvxe%27ipb"
+      },
+      {
+        "Название": "Кафедра транспортных и технологических систем",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=ktits"
+      },
+      {
+        "Название": "Кафедра техносферной безопасности (ТБ)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tb"
+      },
+      {
+        "Название": "Кафедра строительства",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_stroitel'stva"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "672039 Чита, ул. Александро-Заводская, 30",
+      "ТелефонФакультета": "8(3022) 41-66-82",
+      "EmailФакультета": null,
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=3&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=7"
+  },
+  {
+    "НазваниеФакультета": "Энергетический факультет",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=e'nergeticheskij_fakul'tet",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_e'f",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_e'f",
+    "Кафедры": [
+      {
+        "Название": "Кафедра физики и техники связи",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_fits"
+      },
+      {
+        "Название": "Кафедра энергетики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_e%27nergetiki"
+      },
+      {
+        "Название": "Кафедра химии",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_ximii"
+      },
+      {
+        "Название": "Кафедра прикладной информатики и математики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_piim"
+      },
+      {
+        "Название": "Кафедра математики и черчения",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_matematiki_i_chercheniya"
+      },
+      {
+        "Название": "Кафедра информатики, вычислительной техники и прикладной математики (ИВТиПМ)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_ivtipm"
+      },
+      {
+        "Название": "Кафедра технических систем и робототехники",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tsir"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "672039, Россия, Чита, ул. Баргузинская, 49.",
+      "ТелефонФакультета": "8 (3022) 41-73-13",
+      "EmailФакультета": null,
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=4&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=10"
+  },
+  {
+    "НазваниеФакультета": "Международный факультет права и бизнеса",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=yuridicheskij_fakul'tet",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_yuf",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_yuf",
+    "Кафедры": [
+      {
+        "Название": "Кафедра гражданско-правовых дисциплин",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_grazhdansko_pravovy'x_disciplin"
+      },
+      {
+        "Название": "Кафедра уголовного права и уголовного процесса (УПиУП)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_upiup"
+      },
+      {
+        "Название": "Кафедра государственного и муниципального права (ГиМП)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_gimp"
+      },
+      {
+        "Название": "Кафедра административного права и таможенного дела (АПиТД)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_apitd"
+      },
+      {
+        "Название": "Кафедра международного права и международных связей (МПиМС)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_mpims"
+      },
+      {
+        "Название": "Кафедра теории государства и права (ТГП)",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tgip"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [
+      {
+        "Название": "Базовая кафедра Избирательного права ИПиИТ",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=yuridicheskij_fakul'tet"
+      },
+      {
+        "Название": "Компьютерный класс ЮФ",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=yuridicheskij_fakul'tet"
+      },
+      {
+        "Название": "Копировальный центр ЮФ",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=yuridicheskij_fakul'tet"
+      },
+      {
+        "Название": "Нормативные документы факультета",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=normativny'e_dokumenty'_fakul'teta"
+      },
+      {
+        "Название": "Колледж права и бизнеса",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kolledzh_prava_i_biznesa"
+      }
+    ],
+    "Контакты": {
+      "АдресФакультета": "672039 Россия, г. Чита, ул. Петровско-заводская, д 46А",
+      "ТелефонФакультета": "8(3022) 41-73-49 Факс: 8(3022) 41-72-26",
+      "EmailФакультета": null,
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=5&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=11"
+  },
+  {
+    "НазваниеФакультета": "Историко-филологический факультет",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=iff",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_iff",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_iff",
+    "Кафедры": [
+      {
+        "Название": "Кафедра истории",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=ki"
+      },
+      {
+        "Название": "Кафедра иностранных языков",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kiya"
+      },
+      {
+        "Название": "Кафедра китайского языка",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_kitajskogo_yazy%27ka"
+      },
+      {
+        "Название": "Кафедра европейских языков и лингводидактики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_eyail"
+      },
+      {
+        "Название": "Кафедра литературы",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_literatury%27"
+      },
+      {
+        "Название": "Кафедра журналистики и связей с общественностью",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_zhiso"
+      },
+      {
+        "Название": "Кафедра русского языка как иностранного",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_rki"
+      },
+      {
+        "Название": "Кафедра русского языка и методики его преподавания",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_ryaimp"
+      },
+      {
+        "Название": "Кафедра востоковедения",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_vostokovedeniya"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "г. Чита, ул. Чкалова, д. 140; ул. Бутина, 65.",
+      "ТелефонФакультета": "8 (3022) 21-87-27; 21-87-28; 35-28-22",
+      "EmailФакультета": "iff@zabgu.ru",
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=13&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=2"
+  },
+  {
+    "НазваниеФакультета": "Факультет социальных технологий и управления",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=institut_snpip_sociologicheskij_fakul'tet",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_sf",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_sf",
+    "Кафедры": [
+      {
+        "Название": "Кафедра менеджмента и управления персоналом",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_menedzhmenta"
+      },
+      {
+        "Название": "Кафедра философии",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_filosofii"
+      },
+      {
+        "Название": "Кафедра социальной работы",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_sr"
+      },
+      {
+        "Название": "Кафедра социологии",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_sociologii"
+      },
+      {
+        "Название": "Кафедра социокультурного туризма",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_sociokul'turnogo_turizma"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "Россия, г. Чита, ул. Бабушкина, 129",
+      "ТелефонФакультета": "8(3022) 32-57-47, 8(3022) 21-89-24,",
+      "EmailФакультета": "socfzabgu@mail.ru",
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=9&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=4"
+  },
+  {
+    "НазваниеФакультета": "Психолого-педагогический факультет",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=institut_snpip_psixologo-pedagogicheskij_fakul'tet",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_ppf",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_ppf",
+    "Кафедры": [
+      {
+        "Название": "Кафедра психологии образования",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_psixologii_obrazovaniya"
+      },
+      {
+        "Название": "Кафедра специальной психологии и коррекционной педагогики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_spikp"
+      },
+      {
+        "Название": "Кафедра теоретической и прикладной психологии",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tipp"
+      },
+      {
+        "Название": "Кафедра педагогики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_pedagogiki"
+      },
+      {
+        "Название": "Кафедра теории и методики дошкольного и начального образования",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tmdno"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "Россия, г. Чита, ул. Бабушкина, 129",
+      "ТелефонФакультета": null,
+      "EmailФакультета": null,
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=10&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=3"
+  },
+  {
+    "НазваниеФакультета": "Факультет естественных наук, математики и технологий",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=fakul'tet_enmit",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_fenmit",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_fenmit",
+    "Кафедры": [
+      {
+        "Название": "Кафедра математики и информатики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kmii"
+      },
+      {
+        "Название": "Кафедра физики",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kf"
+      },
+      {
+        "Название": "Кафедра биологии, химии и методики их обучения",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kbximo"
+      },
+      {
+        "Название": "Кафедра теории и методики профессионального образования, сервиса и технологий",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_timposit"
+      },
+      {
+        "Название": "Кафедра географии, безопасности жизнедеятельности и технологии",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kgbzhdit"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "672000, г. Чита, ул.Бабушкина, д.129",
+      "ТелефонФакультета": "(3022) 35-58-90",
+      "EmailФакультета": "fakultet.enmit.chita@mail.ru",
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=11&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=5"
+  },
+  {
+    "НазваниеФакультета": "Факультет культуры и искусств",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=fakul'tet_kii",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_fkii",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_fkii",
+    "Кафедры": [
+      {
+        "Название": "Кафедра музыкального искусства",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kmi"
+      },
+      {
+        "Название": "Кафедра теории и истории культуры, искусств и дизайна",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tiikiid"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "Россия, г. Чита, ул. Бабушкина, 125",
+      "ТелефонФакультета": "8(3022) 32-18-00",
+      "EmailФакультета": null,
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=12&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=6"
+  },
+  {
+    "НазваниеФакультета": "Факультет физической культуры и спорта",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=fakul'tet_fkis",
+    "СсылкаНаОчнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=ochnaya_forma_obucheniya_ffkis",
+    "СсылкаНаЗаочнуюФормуОбучения": "https://zabgu.ru/php/page.php?query=zaochnaya_forma_obucheniya_ffkis",
+    "Кафедры": [
+      {
+        "Название": "Кафедра физического воспитания",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_fizicheskogo_vospitaniya"
+      },
+      {
+        "Название": "Кафедра спортивных, медико-биологических дисциплин",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=ksmbd"
+      },
+      {
+        "Название": "Кафедра теоретических основ физического воспитания",
+        "Ссылка": "https://zabgu.ru/php/page.php?query=kafedra_tofv"
+      }
+    ],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "Россия г. Чита, ул. Журавлева, 48.",
+      "ТелефонФакультета": "8(3022) 32-30-97",
+      "EmailФакультета": "ffk_zabgu@mail.ru",
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=14&page=1",
+    "СсылкаНаИзвестныхВыпускников": "https://zabgu.ru/php/information_about_famous_alumni.php?id=8"
+  },
+  {
+    "НазваниеФакультета": "Военная кафедра",
+    "СсылкаНаОписаниеФакультета": "https://zabgu.ru/php/page.php?query=voennaya_kafedra",
+    "СсылкаНаОчнуюФормуОбучения": null,
+    "СсылкаНаЗаочнуюФормуОбучения": null,
+    "Кафедры": [],
+    "ДополнительныеСсылкиПодразделений": [],
+    "Контакты": {
+      "АдресФакультета": "Россия, г. Чита, ул. Бабушкина, 143",
+      "ТелефонФакультета": null,
+      "EmailФакультета": "voenkaf-zabgu@yandex.ru",
+      "СсылкаНаСтраницуКонтактовФакультета": "https://zabgu.ru/php/#first"
+    },
+    "СсылкаНаНовостиФакультета": "https://zabgu.ru/php/news.php?category=17&page=1",
+    "СсылкаНаИзвестныхВыпускников": null
+  }
+]
