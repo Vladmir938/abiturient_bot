@@ -1,6 +1,6 @@
 # config.py
 # Токен вашего Telegram бота
-BOT_TOKEN = "7836024295:AAEz7_-M68mLHeYFunG2fJwy58mJl0vOX3I"
+BOT_TOKEN = ""
 
 # URL для API ЗабГУ
 ZABGU_API_URL = "https://entrant.zabgu.ru/wp-content/themes/twentytwelve/page-templates/crudForCalc/crudForCalcAjax.php"
@@ -31,7 +31,7 @@ BTN_VIRTUAL_ASSISTANT = "Спросить виртуального ассист�
 BTN_EGE_CALCULATOR_LOCAL = "Калькулятор ЕГЭ 📐"
 
 # Настройки для Gemini Assistant
-GEMINI_API_KEY = "AIzaSyDDiyfP078FeflOIMO8UHstRgdJUKx8gTg"
+GEMINI_API_KEY = ""
 GEMINI_MODEL_ID = "gemini-2.0-flash"
 
 # Тексты для подменю "Приёмная комиссия"
