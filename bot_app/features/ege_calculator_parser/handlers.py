@@ -1,4 +1,4 @@
-# zabgu_entrant_bot/features/ege_calculator/handlers.py
+# zabgu_entrant_bot/features/ege_calculator_parser/handlers.py
 from telebot.types import Message, CallbackQuery
 from bot_app.states import EgeCalculatorStates
 from bot_app.config import BTN_EGE_CALCULATOR

@@ -1,5 +1,3 @@
-# zabgu_entrant_bot/features/ege_calculator/logic.py
-# import logging # Убрали
 from telebot.types import Message, CallbackQuery
 
 from bot_app.states import EgeCalculatorStates
@@ -14,8 +12,6 @@ from .keyboards import ege_subject_selection_keyboard, CALLBACK_PREFIX_SUBJECT_I
 from bot_app.keyboards import cancel_inline_keyboard, main_menu_keyboard
 from bot_app.config import MIN_SUBJECTS_TO_SELECT
 
-
-# logger = logging.getLogger(__name__) # Убрали
 
 # --- Логика самого калькулятора ---
 def start_ege_calculator(bot, chat_id: int, user_id: int):

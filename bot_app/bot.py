@@ -8,10 +8,12 @@ from keyboards import main_menu_keyboard
 from states import EgeCalculatorStates # Импортируем, чтобы /cancel мог проверить это состояние
 
 # Импортируем ФИЧИ
-from features.ege_calculator.handlers import register_ege_calculator_handlers
+from features.ege_calculator_parser.handlers import register_ege_calculator_handlers
 from features.faq.handlers import register_faq_handlers
 from features.admission.handlers import register_admission_committee_handlers
 from features.virtual_assistant.handlers import register_gemini_assistant_handlers
+from features.study_programs.handlers import register_study_programs_handlers
+from features.ege_calculator_local.handlers import register_ege_calculator_local_handlers
 
 # Инициализация хранилища состояний
 state_storage = StateMemoryStorage()
@@ -44,7 +46,7 @@ def command_cancel(message: Message):
     # Если мы в процессе калькулятора, вызываем его специфическую отмену
     # Это более явная обработка, но можно и просто bot.delete_state
     if str(current_state).startswith(EgeCalculatorStates.group_name): # Проверяем, что состояние из группы EgeCalculatorStates
-        from features.ege_calculator.logic import cancel_ege_process # Локальный импорт, чтобы избежать циклов
+        from features.ege_calculator_parser.logic import cancel_ege_process # Локальный импорт, чтобы избежать циклов
         cancel_ege_process(bot, message) # Передаем message, т.к. это команда
     else:
         # Общая отмена для других возможных состояний
@@ -53,9 +55,11 @@ def command_cancel(message: Message):
 
 
 # --- РЕГИСТРАЦИЯ ОБРАБОТЧИКОВ ИЗ МОДУЛЕЙ ФИЧ ---
-register_ege_calculator_handlers(bot)
+# register_ege_calculator_handlers(bot)
 register_faq_handlers(bot)
 register_admission_committee_handlers(bot)
+register_study_programs_handlers(bot)
+register_ege_calculator_local_handlers(bot)
 register_gemini_assistant_handlers(bot)
 
 # Сюда можно будет добавлять регистрацию обработчиков для других фич:

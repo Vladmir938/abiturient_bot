@@ -1,4 +1,3 @@
-# zabgu_entrant_bot/features/ege_calculator/keyboards.py
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from bot_app.config import MIN_SUBJECTS_TO_SELECT
 from bot_app.core_utils.utils_ege import OFFERED_SUBJECTS  # Данные о предметах для выбора
